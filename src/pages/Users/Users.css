@@ -1,0 +1,24 @@
+.users-container {
+  padding: 30px;
+}
+
+.user-form {
+  max-width: 400px;
+}
+
+.user-form input,
+.user-form select {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
